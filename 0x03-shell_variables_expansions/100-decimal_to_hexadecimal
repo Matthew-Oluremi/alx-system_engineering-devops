@@ -1,0 +1,2 @@
+#!/bin/bashl
+printf '%x/n' $DECIMAL
